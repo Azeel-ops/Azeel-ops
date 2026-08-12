@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Azeel Mohamed 👋
 
-<!--
-**Azeel-ops/Azeel-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm a BTech student focused on Artificial Intelligence, Data Science, Machine Learning, and software development. I enjoy building practical projects using real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🏏 CricVision AI
+
+An AI-powered T20 cricket data analytics platform built using real cricket data.
+
+**Key Features**
+- Team & Player Analytics
+- Head-to-Head Analysis
+- Venue Analytics
+- Match Archive
+- AI Match Prediction
+- What-If Match Simulator
+- Fantasy XI Generator
+- Best Playing XI
+- AI Cricket Chat Assistant
+
+**Tech Stack:** Python • FastAPI • PostgreSQL • React • JavaScript
+
+## 💻 Skills
+
+- Python
+- Java
+- SQL
+- Machine Learning
+- Data Analytics
+- FastAPI
+- PostgreSQL
+- React
+- Git & GitHub
+
+## 🎯 Currently
+
+- Building AI and Data Science projects
+- Improving my software development skills
+- Exploring real-world applications of Machine Learning
+- Open to remote internship opportunities
+
+## 📫 Connect With Me
+
+- LinkedIn: Available through my GitHub profile
+- GitHub: @Azeel-ops
